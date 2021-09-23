@@ -11,8 +11,8 @@ function App() {
       <Router>
         <Header />
         <Switch>
-          <Route path="/akashmaliye.github.io/ShoppingCart/" exact component={ProductListing} />
-          <Route path="/" exact component={ProductListing} />
+
+          <Route path="/ShoppingCart" exact component={ProductListing} />
           <Route path="/product/:productId" exact component={ProductDetail} />
           <Route>404 Not Found</Route>
         </Switch>

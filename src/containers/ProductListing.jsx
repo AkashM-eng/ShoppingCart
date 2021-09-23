@@ -27,7 +27,7 @@ function ProductListing(props) {
                 </div>) : products.map((item) => {
                     return (
                         <div className="four wide column" key={item.id}>
-                            <Link to={`ShoppingCart/product/${item.id}`}>
+                            <Link to={`product/${item.id}`}>
                                 <div className="ui link cards">
                                     <div className="card">
                                         <div className="image">

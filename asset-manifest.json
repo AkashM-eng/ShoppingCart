@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ShoppingCart/static/css/main.04e84629.chunk.css",
-    "main.js": "/ShoppingCart/static/js/main.1856e586.chunk.js",
-    "main.js.map": "/ShoppingCart/static/js/main.1856e586.chunk.js.map",
-    "runtime-main.js": "/ShoppingCart/static/js/runtime-main.3ff8036d.js",
-    "runtime-main.js.map": "/ShoppingCart/static/js/runtime-main.3ff8036d.js.map",
-    "static/js/2.223323f3.chunk.js": "/ShoppingCart/static/js/2.223323f3.chunk.js",
-    "static/js/2.223323f3.chunk.js.map": "/ShoppingCart/static/js/2.223323f3.chunk.js.map",
-    "index.html": "/ShoppingCart/index.html",
-    "static/css/main.04e84629.chunk.css.map": "/ShoppingCart/static/css/main.04e84629.chunk.css.map",
-    "static/js/2.223323f3.chunk.js.LICENSE.txt": "/ShoppingCart/static/js/2.223323f3.chunk.js.LICENSE.txt"
+    "main.css": "https://Akashmaliye.github.io/ShoppingCart/static/css/main.e1fd86d5.chunk.css",
+    "main.js": "https://Akashmaliye.github.io/ShoppingCart/static/js/main.47732791.chunk.js",
+    "main.js.map": "https://Akashmaliye.github.io/ShoppingCart/static/js/main.47732791.chunk.js.map",
+    "runtime-main.js": "https://Akashmaliye.github.io/ShoppingCart/static/js/runtime-main.949aee2e.js",
+    "runtime-main.js.map": "https://Akashmaliye.github.io/ShoppingCart/static/js/runtime-main.949aee2e.js.map",
+    "static/js/2.223323f3.chunk.js": "https://Akashmaliye.github.io/ShoppingCart/static/js/2.223323f3.chunk.js",
+    "static/js/2.223323f3.chunk.js.map": "https://Akashmaliye.github.io/ShoppingCart/static/js/2.223323f3.chunk.js.map",
+    "index.html": "https://Akashmaliye.github.io/ShoppingCart/index.html",
+    "static/css/main.e1fd86d5.chunk.css.map": "https://Akashmaliye.github.io/ShoppingCart/static/css/main.e1fd86d5.chunk.css.map",
+    "static/js/2.223323f3.chunk.js.LICENSE.txt": "https://Akashmaliye.github.io/ShoppingCart/static/js/2.223323f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ff8036d.js",
+    "static/js/runtime-main.949aee2e.js",
     "static/js/2.223323f3.chunk.js",
-    "static/css/main.04e84629.chunk.css",
-    "static/js/main.1856e586.chunk.js"
+    "static/css/main.e1fd86d5.chunk.css",
+    "static/js/main.47732791.chunk.js"
   ]
 }

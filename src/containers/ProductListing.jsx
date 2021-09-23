@@ -31,7 +31,7 @@ function ProductListing(props) {
                                 <div className="ui link cards">
                                     <div className="card">
                                         <div className="image">
-                                            <img src={item.image} />
+                                            <img src={item.image} alt="img" />
                                         </div>
                                         <div className="content">
                                             <a className="header">{item.title}</a>

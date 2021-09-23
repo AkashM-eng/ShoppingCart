@@ -13,6 +13,7 @@ function ProductDetail(props) {
     const { productId } = useParams()
 
     const dispatch = useDispatch()
+    console.log("n", ProductDetail)
 
     useEffect(() => {
         const fetchProductDetail = async () => {
@@ -30,8 +31,8 @@ function ProductDetail(props) {
     return (
         <div>
             <div class="ui grid container">
-                {ProductDetail === {} ? (<div>
-                    <CircularProgress className="prog-bar" />
+                {ProductDetail.id === undefined ? (<div>
+                    <CircularProgress className="prog-bar-one" />
                 </div>) : (
                     <div className="ui placeholder segment">
                         <div className="ui two column stackable center aligned grid">

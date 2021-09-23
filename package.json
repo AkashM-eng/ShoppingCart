@@ -1,6 +1,5 @@
 {
   "name": "shopping-cart",
-  "homepage": "https://Akashmaliye.github.io/ShoppingCart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +18,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "set PUBLIC_URL=https://Akashmaliye.github.io/ShoppingCart&&npm run build",
     "deploy": "gh-pages -d build",
     "start": "set port=4001 && react-scripts start",
     "build": "react-scripts build",
